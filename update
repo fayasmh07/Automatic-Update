@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo apt update && sudo apt upgrade -y
+sudo apt autoremove -y
+sudo timeout 3s cmatrix
+neofetch
+echo -e "Hi Meta Hustler,\n\nYour system has been Updated.\n"
