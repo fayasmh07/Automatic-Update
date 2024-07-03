@@ -8,7 +8,7 @@
 
 The Script helps to run 'update','upgrade' & 'autoremove' linux processes by entering "update" commad.
 
-_(Works only on Debian-based Linux distros)_
+_NOTE : Works only on Debian-based Linux distros_
 
 To install the script in your system, install the 'install.sh' file from this github repository.
 - `git clone https://github.com/fayasmh07/Automatic-Update`
