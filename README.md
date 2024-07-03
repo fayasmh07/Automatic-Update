@@ -1,4 +1,10 @@
-# Automatic Update
+<h1>
+  <p align="center">
+    Automatic Update
+  </p>
+</h1>
+
+
 
 The Script helps to run 'update','upgrade' & 'autoremove' linux processes by entering "update" commad.
 
