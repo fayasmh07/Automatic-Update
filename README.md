@@ -4,11 +4,11 @@
   </p>
 </h1>
 
-
+![Designer (1)](https://github.com/fayasmh07/Automatic-Update/assets/97302873/c5d8a872-5a3a-42d0-8e18-ac61353029f5)
 
 The Script helps to run 'update','upgrade' & 'autoremove' linux processes by entering "update" commad.
 
-(Works only on Debian-based Linux distros)
+_(Works only on Debian-based Linux distros)_
 
 To install the script in your system, install the 'install.sh' file from this github repository.
 - `git clone https://github.com/fayasmh07/Automatic-Update`
