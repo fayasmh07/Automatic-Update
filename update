@@ -2,6 +2,6 @@
 
 sudo apt update && sudo apt upgrade -y
 sudo apt autoremove -y
-sudo timeout 3s cmatrix
+sudo timeout 4s cmatrix
 neofetch
 echo -e "Hi Hacker,\n\nYour system has been Updated.\n" #The name 'Hacker' can be changed to other.
