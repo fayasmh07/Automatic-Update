@@ -10,8 +10,16 @@ The Script helps to run 'update','upgrade' & 'autoremove' linux processes by ent
 
 _NOTE : Works only on Debian-based Linux distros_
 
-To install the script in your system, install the 'install.sh' file from this github repository.
-- `git clone https://github.com/fayasmh07/Automatic-Update`
-- `cd Automatic-Update`
-- `chmod +x *`
-- `./install.sh`
+To install the script in your system, install the 'install.sh' file from this github repository.(copy-paste the commands below in your terminal)
+
+<div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ddd; padding: 10px; background: #f9f9f9; max-width: 100%;">
+<pre style="display: inline-block; margin: 0; padding: 10px; background: #333; color: #f8f8f2;">
+<code>
+git clone https://github.com/fayasmh07/Automatic-Update
+cd Automatic-Update
+chmod +x *
+./install.sh
+}
+</code>
+</pre>
+</div>
